@@ -1,6 +1,18 @@
 ## Sha alerts - Alert dialogs for flutter with UX in mind.
 
 Sha alert is alert dialogs designed by considering user experience and user interface in first place.
+<br>
+<br>
+
+
+<div align='center'>
+
+<img width='30%' src='https://i.ibb.co/FmjzMSm/hero-modified.png'>
+</div>
+
+
+<br>
+
 
 Sha alert supports 5 types of alert dialogs.
 <b> - Primary
@@ -59,6 +71,7 @@ ShaAlert.showHozzoAlert(
 );
 
 ```
+
 
 
 ### Parameters:
