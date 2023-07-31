@@ -1,6 +1,6 @@
 ## Sha alerts - Alert dialogs for flutter with UX in mind.
 
-Sha alert is alert dialogs designed by considering user experience and user interface in first place.
+[Sha alert](https://pub.dev/packages/sha_alert) is alert dialogs designed by considering user experience and user interface in first place.
 <br>
 <br>
 
